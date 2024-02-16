@@ -58,5 +58,3 @@ They work on developing information repositories and visualization platforms to 
 [Prof. Ergan on Google Scholar](https://scholar.google.com/citations?user=WYwmI0wAAAAJ&hl=en)
 
 [Prof. Ergan on ResearchGate](https://www.researchgate.net/profile/Semiha_Ergan)
-
-Please check [Job Openings page](/jobopening) for openings in the research group.
