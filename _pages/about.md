@@ -14,9 +14,14 @@ The research team works on information modeling and visualization to quantify th
 
 They work on developing information repositories and visualization platforms to better integrate the data captured from sensors and the context under which they operate to get a holistic view of the monitored system/infrastructure for better maintenance and operation.
 
-## Our Research Domain:
+### BiLAB Research Interests:  
+* AR/VR
+* BIM and digital twins
+* Computer Vision/AI/ML
+* Data Analytics and visualization
+* Building /Urban Informatics
 
-<span style="color:blue"><b>Architecture and Neuroscience</b></span>  
+<!-- <span style="color:blue"><b>Architecture and Neuroscience</b></span>  
 *How can we quantify the impact of architectural design features on human experience? Can we use the findings to improve the design practice for better and healtier experiences in the built environment?*  
   
 <span style="color:blue"><b>Urban Challenges for AEC/FM</b></span>  
@@ -26,9 +31,19 @@ They work on developing information repositories and visualization platforms to 
 *How sensors and models can be integrated to better understand system behaviors?*  
   
 <span style="color:blue"><b>Healthier building systems</b></span>  
-*How can the performance of interconnected facility systems  be determined for setting proactive management strategies?*  
-  
+*How can the performance of interconnected facility systems  be determined for setting proactive management strategies?*   -->
 
+### Research Projects  
+* Research Projects (make sure that these are in the projects page)
+* Data-driven Generative design for buildings
+* AI-Assisted Modular Construction
+* Computer Vision enabled Urban Façade Safety and Maintenance
+* BIM and Ontologies in AEC/FM
+* Roadway Worker Safety with Wearables and Virtual Environments
+* Data-driven Building/Urban Energy Efficiency for Sustainable Cities
+* Synchronized Calibration of Multi-Simulators for Transportation Applications
+* AR/VR applications and data visualization in AEC/FM
+* Neuroscience for Architecture and Urban Design
 
 <b>Testbeds utilized</b>: legacy and smart buildings, airports, highways.  
   
