@@ -34,7 +34,6 @@ They work on developing information repositories and visualization platforms to 
 *How can the performance of interconnected facility systems  be determined for setting proactive management strategies?*   -->
 
 ### Research Projects  
-* Research Projects (make sure that these are in the projects page)
 * Data-driven Generative design for buildings
 * AI-Assisted Modular Construction
 * Computer Vision enabled Urban Façade Safety and Maintenance
