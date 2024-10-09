@@ -1,3 +1,13 @@
+- name: Zhuoya Shi
+  photo: Zhuoya.jpg
+  info: PhD Candidate, expected graduation date - May 2024
+  email: zs1110@nyu.edu
+  prj: "<a href='/projects/urban-facade-inspection'>A BIM-based approach for improving building façade inspection in cities</a>"
+  number_educ: 2
+  education1: "Research Project: <a href='/projects/urban-facade-inspection'>A BIM-based approach for improving building façade inspection in cities</a>"
+  education2: <a href="/downloads/Research_Poster_ZhuoyaSHI.pdf">Research poster</a>
+  # desc: Zhuoya Shi is a current PhD candidate in Civil Engineering. She earned her bachelor's degree in Cost Estimating from Chang'an University (2014) and a Master's in Construction Engineering from University of Southern California (2017). She joined NYU in Fall 2017 to pursue her PhD in civil engineering with an emphasis on improving urban facade safety inspections using a BIM-based approach.
+
 - name: Zhengbo Zou, PhD
   photo: zz.jpg
   duration: "Graduated: Dec 2020"
