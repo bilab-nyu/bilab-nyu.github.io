@@ -1,6 +1,7 @@
 - name: Zhuoya Shi
   photo: Zhuoya.jpg
-  info: PhD Candidate, expected graduation date - May 2024
+  duration: "Graduated: May 2024"
+  info: 
   email: zs1110@nyu.edu
   prj: "<a href='/projects/urban-facade-inspection'>A BIM-based approach for improving building façade inspection in cities</a>"
   number_educ: 2
