@@ -1,4 +1,18 @@
 - date:
+  headline: Keundeok Wins Poster Award at i3CE 2024
+  text: '''<img src="../images/news/research_exhibit.jpg" alt="zzay" width="500"/><br>
+  Congratulations to Keundeok, a member of the Bilab team, for winning the Poster Award at the ASCE International Conference on Computing in Civil Engineering (i3CE 2024)!  
+  Keundeok’s research focuses on generating architectural floorplans using deep reinforcement learning, incorporating parameters grounded in architectural theory.
+
+- date:
+  headline: Beyza Wins the 2024 Summer NYU Tandon Research Excellence Exhibit Award
+  text: '<img src="../images/news/i3ce_poster.jpg" alt="zzay" width="500"/><br>
+  We’re thrilled to announce that Beyza, a member of the Bilab team, has been recognized with the 2024 Summer NYU Tandon Research Expo Award!  
+  Her research leverages computer vision techniques to identify defects in urban building facades, showcasing innovative solutions for urban sustainability and safety.  
+  Congratulations, Beyza, on this incredible accomplishment!
+  Check the article here: [NYU Tandon’s annual research showcase: Research Excellence Exhibit](https://engineering.nyu.edu/research-innovation/student-research/research-excellence-exhibit)
+
+- date:
   headline: BiLAB receives an NSF Convergence Accelerator grant, 2024.
   text: 'Professor Semiha Ergan and the collaborating research team received Phase I grant with the project: [Slime Mold Inspired Self-Assembling Conveyor System for Flood Response](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2344289&HistoricalAwards=false)." Launched in 2019, the NSF Convergence Accelerator builds upon basic research and discovery to accelerate solutions toward societal impact.'
 
