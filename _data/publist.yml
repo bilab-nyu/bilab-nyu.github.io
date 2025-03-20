@@ -1,3 +1,10 @@
+- title: "A taxonomy of urban façade defects and their distribution on façade components: A data-driven analysis of historical inspection reports"
+  images:
+  authors: Zhuoya Shi, Keundeok Park, Semiha Ergan
+  link:
+    url:
+    display: ASCE Journal of Construction Engineering and Management (accepted).
+
 - title: "Quantification of the impact of street design features on restorative quality in urban settings"
   images:
   authors: Park, K., & Ergan, S.
@@ -5,7 +12,7 @@
     url: https://doi.org/10.1016/j.scs.2025.106216
     display: Sustainable Cities and Society (accepted).
 
-- title: "Improving Work Zone Safety: Integrating VR-CARLA Co-simulation and Eye Tracking for Behavior Analysis of Drivers around Work Zones"
+- title: "Improving work zone safety: Integrating VR-CARLA co-simulation and eye tracking for behavior analysis of drivers around work zones"
   images:
   authors: Zhang, S., Ergan, S., Zuo, F., & Ozbay, K.
   link:
@@ -19,14 +26,14 @@
     url: https://doi.org/10.1080/19439962.2024.2449119 
     display: Journal of Transportation Safety & Security, 1-25, 2025.
 
-- title: "Transforming Urban Façade Condition Assessments with Semantic Data Visualizations and 3D Spatial Layouts from BIMs"
+- title: "Transforming urban façade condition assessments with semantic data visualizations and 3D spatial layouts from BIMs"
   images:
   authors: Shi, Z., & Ergan, S. 
   link:
     url: https://doi.org/10.3390/buildings15030458
     display: Buildings, 15(3), 458, 2025.
 
-- title: "An AprilTags-Based Approach for Progress Monitoring and Quality Control in Modular Construction"
+- title: "An AprilTags-based approach for progress monitoring and quality control in modular construction"
   images:
   authors: Liu, J., Ergan, S., & Zhang, Q. 
   link:
@@ -40,7 +47,7 @@
     url: https://doi.org/10.1016/j.autcon.2023.105243
     display: Automation in Construction, 158, 105243, 2024.
 
-- title: "Classification of Challenges in Achieving BIM-Based Safety-Requirement Checking in Vertical Construction Projects"
+- title: "Classification of challenges in achieving BIM-based safety-requirement checking in vertical construction projects"
   images: 
   authors: Venkatesh, P., & Ergan, S.
   link:
@@ -73,7 +80,7 @@
     display: Journal of Advanced Engineering Informatics, 51, 101476, 2022.
   highlight: 0
 
-- title: "Estimating Power Demand Shaving Capacity of Buildings on an Urban Scale using Extracted Demand Response Profiles through Machine Learning Models"
+- title: "Estimating power demand shaving capacity of buildings on an urban scale using extracted demand response profiles through machine learning models"
   authors: Yu, X., and Ergan, S.
   link:
     url: https://doi.org/10.1016/j.apenergy.2022.118579
@@ -93,7 +100,7 @@
 
 
 
-- title: "Key Variables in Determining Energy Shaving Capacity of Buildings during Demand Response Events"
+- title: "Key variables in determining energy shaving capacity of buildings during demand response events"
   image: Direct.png
   authors: Yu, X., & Ergan, S.
   description: 
@@ -103,7 +110,7 @@
   highlight: 0
   news2:
 
-- title: "Quantifying the Impact of Urban Form on Human Experience: An Experiment using Virtual Environments and Electroencephalogram"
+- title: "Quantifying the impact of urban form on human experience: an experiment using virtual environments and electroencephalogram"
   image: Direct.png
   authors: Zou, Z., Ergan, S., Fisher-Gewirtzman, D., & Curtis, C.
   description: 
@@ -113,7 +120,7 @@
   highlight: 0
   news2:
 
-- title: "Towards Optimal Control of Air Handling Units using Deep Reinforcement Learning and Recurrent Neural Network"
+- title: "Towards optimal control of air handling units using deep reinforcement learning and recurrent neural network"
   image: Direct.png
   authors: Zou, Z., Yu, X., & Ergan, S.
   description: 
@@ -146,7 +153,7 @@
 
 ## 2018
 
-- title: "Characteristics of Models that Impact Transformation of BIMs to Virtual Environments to Support Facility Management Operations"
+- title: "Characteristics of models that impact transformation of BIMs to virtual environments to support facility management operations"
   image: Direct.png
   authors: Zou, Z., Arruda, L., & Ergan, S.
   description:
