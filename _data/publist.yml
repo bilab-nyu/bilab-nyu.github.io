@@ -1,6 +1,6 @@
 - title: "A taxonomy of urban façade defects and their distribution on façade components: A data-driven analysis of historical inspection reports"
   images:
-  authors: Zhuoya Shi, Keundeok Park, Semiha Ergan
+  authors: Shi, S., Park, K., & Ergan, S.
   link:
     url:
     display: ASCE Journal of Construction Engineering and Management (accepted).
@@ -150,6 +150,13 @@
     display: ASCE Journal of Computing in Civil Engineering, 33(2), 04018062.1- 13. 2019
   highlight: 0
   news2:
+
+- title: "Owner requirements in as-built BIM deliverables and a system architecture for FM specific BIM representation"
+  images:
+  authors: Carnot Dias, P., & Ergan, S.
+  link:
+    url: https://doi.org/10.1139/cjce-2018-0703
+    display: Canadian Journal of Civil Engineering, August 2019
 
 ## 2018
 
