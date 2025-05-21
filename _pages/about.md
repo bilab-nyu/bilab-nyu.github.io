@@ -41,10 +41,6 @@ The Building Informatics and Visualization Lab (biLAB) at [NYU Tandon School of 
 * AR/VR applications and data visualization in AEC/FM
 * Neuroscience for Architecture and Urban Design
 
-<b>Testbeds utilized</b>: legacy and smart buildings, airports, highways.  
-  
-<b>Tools utilized</b>: Building information models, data driven methodologies, advanced visualization
-
 <img src="/images/semiha2.jpg" width="40%"/>
 
 #### The biLab is spearheaded by Prof. Semiha Ergan, Associate Professor of the Department of Civil and Urban Engineering.
