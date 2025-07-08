@@ -9,13 +9,13 @@
   description: "The significance of building façade inspections in ensuring public safety is underscored by the history of severe accidents due to falls from façades. Traditional inspection methods, relying on manual expertise, are fraught with risks and inefficiencies, which highlights the pressing need for automated solutions. The data collection process for façade inspection is arduous, leading to a shortage of labeled images. This lack, alongside the irregular occurrence of different defect types, skews datasets, which undermines the performance of AI models. In parallel, existing written reports and isolated annotations on images and floor plans do not capture the full picture of a façade's condition, necessitating a method that can holistically monitor and record changes over time. Addressing these issues, this research introduces an integrated 3D façade inspection platform. This platform seeks to: 1) Improve detection models through the generation of synthetic data, which in turn enhances the performance of defect detection models 2) Enable dynamic monitoring of façade changes, employing deep learning for more accurate tracking 3) Create a 3D visualization platform that consolidates scattered data sources, thereby optimizing the assessment and prioritization of repairs. The research aims to elevate detection accuracy, offer a dynamic, comprehensive monitoring and visualization tool that adapts to the evolving urban façade landscape and to mitigate the risks inherent in traditional inspection methods, fostering a safer urban environment."
   highlight: 1
 
-- title: "Data-driven building and urban energy efficiency for sustainable cities"
-  image: prj_qi.jpeg
-  addr: data-driven-building-urban-energy
-  pp:
-  description: "This project aims to identify energy efficiency in buildings and communities at an urban scale. Leveraging publicly accessible datasets, a data-driven approach is employed, utilizing computer vision and spatial analysis techniques. The objective is to provide technical support for energy-saving retrofits in buildings and to achieve urban energy conservation and emission reduction goals. This endeavor contributes to the broader discourse on sustainable urban development and energy conservation. The findings from this research could potentially influence policy-making and urban planning, leading to more energy-efficient and sustainable urban environments."
-  highlight: 1
-  news2:
+# - title: "Data-driven building and urban energy efficiency for sustainable cities"
+#   image: prj_qi.jpeg
+#   addr: data-driven-building-urban-energy
+#   pp:
+#   description: "This project aims to identify energy efficiency in buildings and communities at an urban scale. Leveraging publicly accessible datasets, a data-driven approach is employed, utilizing computer vision and spatial analysis techniques. The objective is to provide technical support for energy-saving retrofits in buildings and to achieve urban energy conservation and emission reduction goals. This endeavor contributes to the broader discourse on sustainable urban development and energy conservation. The findings from this research could potentially influence policy-making and urban planning, leading to more energy-efficient and sustainable urban environments."
+#   highlight: 1
+#   news2:
 
 - title: "Sensor-enabled calibration of VR-integrated co-simulation platforms for enhanced accuracy in multi-modal mobility models"
   image: prj_shuo.jpeg
