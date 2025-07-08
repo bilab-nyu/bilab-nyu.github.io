@@ -3,13 +3,13 @@
   addr: cv-based-defects
   pp:
     pp1: Kiper, B., Ergan, S. (2023). “Generative Adversarial Network (GAN) based data augmentation for enhancing DL models on façade defect identification” in ASCE International Conference on Computing in Civil Engineering, i3CE, June 25-28, 2023, Corvallis, Oregon.
-    pp2: Kiper, B., Ergan, S.(2023) “Evaluation of Data Augmentation Methods In Transfer Learning-Based Multi-Defect Classifications” in EG-ICE 2023 International Conference on Intelligent Computing in Engineering, July 4-7, 2023, London, UK.
+    pp2: Kiper, B., Ergan, S.(2023) “Evaluation of data augmentation methods in transfer learning-based multi-defect classifications” in EG-ICE 2023 International Conference on Intelligent Computing in Engineering, July 4-7, 2023, London, UK.
     pp3: Kiper, B., Lin, X., Owoborode, M., Ergan, S., (2022). “An approach to generate point cloud-based defects for automated façade inspections.” In International Conference on Construction Applications of Virtual Reality (CONVR2022), November 16-19, 2022, Seoul, South Korea.
 
   description: "The significance of building façade inspections in ensuring public safety is underscored by the history of severe accidents due to falls from façades. Traditional inspection methods, relying on manual expertise, are fraught with risks and inefficiencies, which highlights the pressing need for automated solutions. The data collection process for façade inspection is arduous, leading to a shortage of labeled images. This lack, alongside the irregular occurrence of different defect types, skews datasets, which undermines the performance of AI models. In parallel, existing written reports and isolated annotations on images and floor plans do not capture the full picture of a façade's condition, necessitating a method that can holistically monitor and record changes over time. Addressing these issues, this research introduces an integrated 3D façade inspection platform. This platform seeks to: 1) Improve detection models through the generation of synthetic data, which in turn enhances the performance of defect detection models 2) Enable dynamic monitoring of façade changes, employing deep learning for more accurate tracking 3) Create a 3D visualization platform that consolidates scattered data sources, thereby optimizing the assessment and prioritization of repairs. The research aims to elevate detection accuracy, offer a dynamic, comprehensive monitoring and visualization tool that adapts to the evolving urban façade landscape and to mitigate the risks inherent in traditional inspection methods, fostering a safer urban environment."
   highlight: 1
 
-- title: "Data-driven Building and Urban Energy Efficiency for Sustainable Cities"
+- title: "Data-driven building and urban energy efficiency for sustainable cities"
   image: prj_qi.jpeg
   addr: data-driven-building-urban-energy
   pp:
@@ -17,7 +17,7 @@
   highlight: 1
   news2:
 
-- title: "Sensor-enabled Calibration of VR-Integrated Co-Simulation Platforms for Enhanced Accuracy in Multi-modal Mobility Models"
+- title: "Sensor-enabled calibration of VR-integrated co-simulation platforms for enhanced accuracy in multi-modal mobility models"
   image: prj_shuo.jpeg
   addr: sensor-enabled-mobility
   pp:
@@ -39,7 +39,7 @@
   highlight: 1
   news2:
 
-- title: "Smart Safety in Roadway Work Zones using Intelligent Wearable Alarms"
+- title: "Smart safety in roadway work zones using intelligent wearable alarms"
   image: prj7_worker_safety.png
   addr: work-zone-safety
   description: "The most recent statistics in the United States are showing an increasing rate of construction worker fatalities due to vehicles crashing into roadway work zones, peaking at over 900 deaths in 2021. Research in transportation safety has mainly investigated these accidents in relation to the behavior and awareness of vehicle motorists, leaving the role of roadway workers' behavior not well understood. Meanwhile, recent commercial roadway work zone intrusion alert (WZIA) systems have been deployed to raise alarms (e.g., sounds, flashing lights) to warn workers of traffic hazards (e.g., speeding car) and prevent accidents, but suffer from slow worker response times the farther away they stand from a WZIA's stationary alarm source (e.g., loudspeaker/lamp). Wearable warning devices (e.g., smartwatch) have the potential to address the limitations of current WZIA systems by ensuring workers always perceive alarms on their bodies. As wearable warning devices become adopted in roadway work zones, workers may still experience alarm fatigue due to repeated exposure to alarms of constant attribute-values, reducing their responsiveness towards traffic hazards over time. To address these challenges, prior research at BILAB initiated an integrated traffic and virtual reality (VR) platform that simulates realistic roadway work zones with surrounding traffic flow. Utilizing the platform to collect data on human roadway workers' behaviors and alarm reactions, the major contributions of this dissertation include: (1) a deep learning model that can accurately predict roadway workers' trajectory based on their construction activities and proximity to traffic vehicles, (2) a identified list of alarm attributes (e.g., modality) and values (e.g., “haptics and sounds”) that informs the design of future wearable warning devices for roadway worker safety applications, and (3) a reinforcement learning-based intelligent control system for fine-tuning alarm attribute-values to minimize alarm fatigue in worker reactions."
@@ -52,12 +52,12 @@
     pp6: "Zou, Z., Bernardes, S. D., Zuo, F., Ergan, S., and Ozbay, K. (2022) Developing an integrated platform to enable hardware-in-the-loop for synchronous VR, traffic simulation and sensor interactions, *Advanced Engineering Informatics*, 51, 101476 "
   highlight: 1
 
-- title: "AI-powered and Robot-assisted Manufacturing for Modular Construction: Train module assembly progress inference AI model training in Virtual Reality"
+- title: "AI-powered and robot-assisted manufacturing for modular construction: Train module assembly progress inference AI model training in virtual reality"
   image: prj8_kpark.png
   addr: arm4mod
   description: "Modular construction aims at overcoming challenges faced by the traditional construction process such as the shortage of skilled workers, fast-track project requirements, and cost associated with on-site productivity losses and recurrent rework. Since manufacturing is done off-site in controlled factory settings, modular construction is associated with increased productivity and better quality control. However, because every construction project is unique and results in distinct work pieces and building elements to be assembled, modular construction factories necessitate better mechanisms to assist workers during the assembly process in order to minimize errors in selecting the pieces to be assembled and idle times while figuring out the next step in an assembly sequence. Machine intelligence provides opportunities for such assistance; however, a challenge is to rapidly generate large datasets with rich contextual data to train such intelligent agents. This work overviews a mechanism to generate such datasets in virtual environments and evaluates the performance of AI models trained using data generated in virtual environments in recognizing the next installation step in modular assembly sequences. Performance of the trained MV-CNN models (with accuracy of 0.97) shows that virtual environments can potentially be used to generate the required datasets for AI without the costly, time-consuming, and labor-intensive investments needed upfront for capturing real-world data."
   pp:
-    pp1: "Park, K., & Ergan, S. (2022). Toward Intelligent Agents to Detect Work Pieces and Processes in Modular Construction: An Approach to Generate Synthetic Training Data. In Construction Research Congress 2022 (pp. 802-811)."
+    pp1: "Park, K., & Ergan, S. (2022). Toward intelligent agents to detect work pieces and processes in modular construction: An approach to generate synthetic training data. In Construction Research Congress 2022 (pp. 802-811)."
     pp2: "Park, K., Ergan, S., & Feng, C. (2021). Towards intelligent agents to assist in modular construction: evaluation of datasets generated in virtual environments for AI training. In ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction (Vol. 38, pp. 327-333). IAARC Publications."
   highlight: 1
 
@@ -67,7 +67,7 @@
   description: ""
   highlight: 1
 
-- title: "A Computer Vision-based Approach for Urban Façade Inspections"
+- title: "A computer vision-based approach for urban façade inspections"
   image: prj10_beyza.png
   addr: cv-facade-inspection
   description: "Evaluating façade conditions in urban settings is an integral part of the building maintenance and ensuring public safety. In current practice, façade inspections are conducted manually and visually by inspectors causing costly and time-consuming processes that are prone to errors. This project aims to automate façade inspections and present more effective methods by leveraging drones, laser scanners and computer vision &amp; AI. The objectives of the study include (1) acquisition of data for defect classification and 3D model generation (2) identifying targeted façade defects with different geometries and attributes using deep learning techniques (3) visualizing the identified defects on generated 3D models to support inspection process."
