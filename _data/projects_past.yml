@@ -1,11 +1,11 @@
-- title: "Increasing Work Zone Safety: Worker Behavioral Analysis with Integration of Wearable Sensors and Virtual Reality"
+- title: "Increasing work zone safety: Worker behavioral analysis with integration of wearable sensors and virtual reality"
   image: prj6.png
   addr: increasing-work-zone-safety
   description: "According to the Federal Highway Administration (FHWA), work zone fatalities at road construction projects account for up to 3% of all workplace fatalities in a given year, and the primary causes are runovers/backovers, collisions, and caught in-between mobile equipment. One of the main proactive approaches adopted by construction companies to prevent these incidents is safety training courses, which are designed to help increase workers’ awareness of hazards around the job sites and take timely actions to avoid injuries. However, work zone safety knowledge from training courses is not enough to change the level of vigilance of workers, which is easily affected by factors such as fatigue or environmental distractions. With the development of wearable technologies, an increasing number of research studies have been exploring the feasibility of using wearable sensors to detect workers’ attention and vigilance towards job site hazards. However, merely measuring workers’ awareness of hazards is not sufficient. There is still a need to understand key parameters that impact worker and driver behaviors regarding received alarms/warnings/notifications and design notification systems that are calibrated for the optimal time, frequency, and modality to push information on potential hazards at work zones. With the goal of reducing the number of injuries and fatalities, this project aims to understand the key parameters (e.g., work zone location characteristics, personal vigilance levels, types of construction work) that play roles in achieving responsive behaviors in workers. Key questions this research will address include in what conditions people ignore or respond to warnings, how notification systems can be calibrated for getting responsive actions from workers, and what modalities, frequencies, and timings of pushing notifications are most effective. Through wearable sensors and realistic representations of work zones in virtual reality, we plan to collect worker behavioral and physiological (heart rate) responses to warnings issued under various realistic scenarios and various warning mechanisms."
   pp:
-    pp1: "Bernardes, S. D., Zou, Z., Zuo, F., Ergan, S., Khan, J. A. and Ozbay, K. (2020). Development of a Virtual-Reality Based Immersive and Integrated Traffic Simulation Platform for Studying Traffic Work Zone Safety Problems. TRB 2020 annual meeting"
-    pp2: "Zou, Z., Ergan, S., (2020). An Integrated Approach to Capture Construction Workers’ Response towards Safety Alarms using Wearable Sensors and Virtual Reality. C2SMART webinar series, presented on May 26th, 2020."
-    pp3: "Zou, Z., Bernardes, S. D., Zuo, F., Ergan, S., and Ozbay, K. (2021). “An integrated approach to enable Hardware-in-the-loop for realtime VR, traffic simulation and sensor interactions: An Application in work zone safety”. Journal of Advanced Engineering Informatics."
+    pp1: "Bernardes, S. D., Zou, Z., Zuo, F., Ergan, S., Khan, J. A. and Ozbay, K. (2020). Development of a virtual-reality based immersive and integrated traffic simulation platform for studying traffic work zone safety problems. TRB 2020 annual meeting"
+    pp2: "Zou, Z., Ergan, S., (2020). An integrated approach to capture construction workers’ response towards safety alarms using wearable sensors and virtual reality. C2SMART webinar series, presented on May 26th, 2020."
+    pp3: "Zou, Z., Bernardes, S. D., Zuo, F., Ergan, S., and Ozbay, K. (2021). “An integrated approach to enable Hardware-in-the-loop for realtime VR, traffic simulation and sensor interactions: An application in work zone safety”. Journal of Advanced Engineering Informatics."
   highlight: 1
 
 - title: "Customized building operations: Defining operational signatures of HVAC system configurations through data analytics on historical BAS data"
@@ -55,12 +55,12 @@
   highlight: 1
   news2:
 
-- title: "BIM-based and an Automated Approach for HVAC Troubleshooting"
+- title: "BIM-based and an automated approach for HVAC troubleshooting"
   image: past_prj1.png
   addr: bim-based-and
   pp:
     pp1: "Yang, X. and Ergan, S. (2015). “Leveraging BIM to provide automated support for efficient troubleshooting of hvac-related problems.” Journal of Computing in Civil Engineering,  DOI: 10.1061/(ASCE)CP.1943-5487.0000492, 04015023."
-    pp2: "Yang, X. and Ergan, S. (2015). “Design and Evaluation of an Integrated Visualization Platform to Support Corrective Maintenance of HVAC Problem–Related Work Orders.” Journal of Computing in Civil Engineering, DOI: 10.1061/(ASCE)CP.1943-5487.0000510 , 04015041."
+    pp2: "Yang, X. and Ergan, S. (2015). “Design and evaluation of an integrated visualization platform to support corrective maintenance of HVAC problem–related work orders.” Journal of Computing in Civil Engineering, DOI: 10.1061/(ASCE)CP.1943-5487.0000510 , 04015041."
     pp3: "Yang, X., and Ergan, S. (2015). “Characteristics of work orders and information requirements of HVAC mechanics to troubleshoot HVAC related problems” Journal of Building Engineering (under review)."
     pp4: "Yang, X., and Ergan, S. (2014). “A formal approach to provide information and visualization support for troubleshooting of HVAC related problems.” EG-ICE:  21st International Workshop on Intelligent Computing in Engineering, July 16th-18th, 2014, Cardiff, UK. http://egice2014.engineering.cf.ac.uk/images/BIN/papers/14.pdf."
     pp5: "Yang, X., and Ergan, S. (2014). “Towards a formal approach for determining functions of HVAC components represented in IFC”, Proceedings of International Conference on Computing in Civil and Building Engineering ICCCBE/CIB W078, June 23-25, 2014, Florida, USA, pp. 633-640.  DOI: http://dx.doi.org/10.1061/9780784413616.079."
@@ -70,7 +70,7 @@
   highlight: 1
   news2:
 
-- title: "Delivering Accurate and Complete As-built BIMs: Progressive Laser Scans and As-Planned BIM"
+- title: "Delivering accurate and complete as-built BIMs: Progressive laser scans and as-planned BIM"
   image: past_prj2.png
   addr: delivering-accurate-and
   pp:
@@ -94,7 +94,7 @@
   highlight: 1
   news2:
 
-- title: "Immersive and Interactive Workspaces for Collaborative Design"
+- title: "Immersive and interactive workspaces for collaborative design"
   image: past_prj3.png
   addr: immersive-and-interactive
   pp:
@@ -105,11 +105,11 @@
   highlight: 1
   news2:
 
-- title: "Advanced Information Modeling and Visualization for Dam Risk Assessment"
+- title: "Advanced information modeling and visualization for dam risk assessment"
   image: past_prj4.png
   addr: advanced-information-modeling
   pp:
-    pp1: "Gulgec, N., Ergan, S., Akinci, B., and Kelly, C. (2015). “Integrated Information Repository for Risk Assessment of Embankment Dams: Requirements Identification for Evaluating the Risk of Internal Erosion.” Journal of Computing in Civil Engineering,  DOI: 10.1061/(ASCE)CP.1943-5487.0000509 , 04015038."
+    pp1: "Gulgec, N., Ergan, S., Akinci, B., and Kelly, C. (2015). “Integrated information repository for risk assessment of embankment dams: Requirements identification for evaluating the risk of internal erosion.” Journal of Computing in Civil Engineering,  DOI: 10.1061/(ASCE)CP.1943-5487.0000509 , 04015038."
     pp2: "Kasireddy, V., Ergan, S., and Akinci, B., Gulgec, N. (2015). “Visualization requirements of engineers for risk assessment of embankment dams”, Visualization in Engineering 2015, 3:1 (16 January 2015). http://www.viejournal.com/content/3/1/1."
     pp3: "Jung, I., Frazier, J., Akinci, B., Berges, M.,  Ergan, S., Garrett, J., and Kelly, C. (2013). “Towards dam information modeling: best practices learned from the AEC/FM domain”, Proceedings of International Commission on Large Dams (ICOLD), August 12-16, 2013, Seattle, Washington, USA, pp. 1251-1260."
     pp4: "Kasireddy, V., Ergan, S., and Akinci, B. (2014). “Visualization requirements of engineers for risk assessment of embankment dams”, Accepted for publication in Proceedings of International Symposium on Automation and Robotics in Construction (ISARC), July 09-11, 2014, Sydney, Australia, pp. 746-753. http://www.iaarc.org/publications/fulltext/isarc2014_submission_116.pdf."
@@ -117,7 +117,7 @@
   highlight: 1
   news2: 
 
-- title: "Building Energy Dashboards"
+- title: "Building energy dashboards"
   image: past_prj5.png
   addr: building-energy-dashboards
   pp:
