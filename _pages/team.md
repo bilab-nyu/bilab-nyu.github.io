@@ -58,6 +58,9 @@ Positions are available at PhD levels in BiLAB. Please contact Prof. Ergan for d
 <p> {{ member.desc }} </p>
 </ul>
 Research project: {{ member.prj }}
+{% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+{% endif %}
 </div>
 
 {% endfor %}

@@ -31,6 +31,7 @@
   prj: <a href="/projects/sensor-enabled-mobility">Sensor-enabled Calibration of VR-Integrated Co-Simulation Platforms for Enhanced Accuracy in Multi-modal Mobility Models</a>
   email: sz4580@nyu.edu
   desc: Shuo is a current PhD student in Transportation systems. Before joining NYU as a PhD student in Fall 2023, he earned his MSc in Transportation engineering at UCLA and BSc in Civil engineering at Dalian Jiaotong University.
+  number_educ: 0
 
 - name: Heng Quan
   photo: heng.jpg
@@ -38,14 +39,15 @@
   info: PhD Student, expected graduation date - May 2027
   email: hq322@nyu.edu
   desc: Heng Quan is currently pursuing his PhD in Urban Systems at NYU, having joined in the Fall of 2023. Prior to this, he earned his BSc in Statistics and Computer Science from the University of Illinois at Urbana-Champaign and his MSc in Applied Urban Science and Informatics from New York University.
+  number_educ: 0
 
 - name: Xinyi Ning
   photo: Xinyi.jpg
-  prj: Risk-informed vehicle trajectory prediction
+  prj: <a href="/projects/trajectory-prediction">Risk-Informed Vehicle Trajectory Prediction for Autonomous Driving</a>
   info: PhD Student, expected graduation date - May 2028
   email: xn2060@nyu.edu
-  desc: Xinyi Ning is a current PhD student in Urban Systems at NYU, starting in the Fall of 2024. She earned her BSc in Automation from Tsinghua University in 2021 and her MSc in Control Science and Engineering from Tsinghua University in 2024.
-
+  desc: Xinyi Ning is a current PhD candidate in Urban Systems at NYU, starting in the Fall of 2024. She earned her BSc in Automation from Tsinghua University in 2021 and her MSc in Control Science and Engineering from Tsinghua University in 2024.
+  number_educ: 0
 # - name: Mohammad Zair Cheema
 #   photo: zair.jpg
 #   info: PhD Student, expected graduation date - May 2025
