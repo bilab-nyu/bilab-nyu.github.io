@@ -1,5 +1,23 @@
 - date:
-  headline: Dr. Ergan Receives $500K NYC DDC Grant as Lead PI for NYC Embodied Carbon Baseline Study
+  headline: Bilab Alumnus Dr. Keundeok Park Joins Pusan National University's Faculty
+  text: "Congratulations to Bilab alumnus Dr. Keundeok Park! He has accepted a position as a Tenure-Track Assistant Professor at Pusan National University, one of the top universities in South Korea. We are thrilled for him!"
+
+- date:
+  headline: Shuo's Poster wins second place at ITS-NY 32nd Annual Meeting
+  text: 'Shuo Zhang’s poster “Improving work zone safety: Integrating VR-CARLA Co-simulation and Eye Tracking for Behavior Analysis of Drivers Around Work Zones” received second place in Intelligent Transportation Society- New York’s 32nd Annual Meeting & Technology Exhibition. Congratulations!
+  Check the article here: [ITS-NY 32nd Annual Meeting and Technology Exhibition](https://c2smarter.engineering.nyu.edu/its-ny-32nd-annual-meeting-and-technology-exhibition/)'
+
+- date:
+  headline: Congratulations to Dan and Keundeok on their successful PhD defense.
+  text: '<img src="../images/news/Dan_K_defense.jpeg" alt="zzay" width="768"/><br>
+  A big congratulations to Dan and Keundeok for successfully defending their PhD theses! We wish them all the best as they move forward in their careers.'
+
+- date:
+  headline: Dr. Ergan serves as a CoPI for an NSF Convergence Accelerator grant, 2025.
+  text: 'Dr. Semiha Ergan and the collaborating research team received an NSF Convergence Accelerator grant with the project: [Convergence Accelerator Bio-Inspired Design Innovations: All-Terrain Self-Assembling Robotic Conveyor System Inspired by Slime Mold Behaviors and Ant Assemblages](https://nsf.elsevierpure.com/en/projects/convergence-accelerator-bio-inspired-design-innovations-all-terra).'
+
+- date:
+  headline: Dr. Ergan receives a $500K NYC DDC grant as the lead PI for the NYC Embodied Carbon Baseline Study.
   text: "Dr. Semiha Ergan has been awarded a $500,000 grant from the New York City Department of Design and Construction (NYC DDC) as the lead principal investigator for the NYC Embodied Carbon Baseline Study."
 
 - date: 
@@ -7,13 +25,13 @@
   text: "Congratulations to Bilab alumnus Dr. Zhengbo Zou! He has accepted a position as Tenure-Track Assistant Professor in the Department of Civil Engineering & Engineering Mechanics at Columbia University. We are thrilled for him!"
 
 - date:
-  headline: Keundeok Wins Poster Award at i3CE 2024
+  headline: Keundeok wins poster award at i3CE 2024
   text: '<img src="../images/news/i3ce_poster.jpg" alt="zzay" width="768"/><br>
   Congratulations to Keundeok, a member of the Bilab team, for winning the Poster Award at the ASCE International Conference on Computing in Civil Engineering (i3CE 2024)!  
   Keundeok’s research focuses on generating architectural floorplans using deep reinforcement learning, incorporating parameters grounded in architectural theory.'
 
 - date:
-  headline: Beyza Wins the 2024 Summer NYU Tandon Research Excellence Exhibit Award
+  headline: Beyza wins the 2024 Summer NYU Tandon Research Excellence Exhibit Award
   text: '<img src="../images/news/research_exhibit.jpg" alt="zzay" width="768"/><br>
   We’re thrilled to announce that Beyza, a member of the Bilab team, has been recognized with the 2024 Summer NYU Tandon Research Expo Award!  
   Her research leverages computer vision techniques to identify defects in urban building facades, showcasing innovative solutions for urban sustainability and safety.  
@@ -22,7 +40,7 @@
 
 - date:
   headline: BiLAB receives an NSF Convergence Accelerator grant, 2024.
-  text: 'Professor Semiha Ergan and the collaborating research team received Phase I grant with the project: [Slime Mold Inspired Self-Assembling Conveyor System for Flood Response](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2344289&HistoricalAwards=false)." Launched in 2019, the NSF Convergence Accelerator builds upon basic research and discovery to accelerate solutions toward societal impact.'
+  text: 'Professor Semiha Ergan and the collaborating research team received Phase I grant with the project: [Slime Mold Inspired Self-Assembling Conveyor System for Flood Response](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2344289&HistoricalAwards=false). Launched in 2019, the NSF Convergence Accelerator builds upon basic research and discovery to accelerate solutions toward societal impact.'
 
 - date:
   headline: BiLAB receives an NSF CIVIC Phase II grant, 2024.
