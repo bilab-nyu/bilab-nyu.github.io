@@ -3,11 +3,11 @@ title: "biLAB | Current Project"
 layout: textlay
 excerpt: "Current project"
 sitemap: false
-permalink: /projects/trajectory-prediction
+permalink: /projects/ai-arch
 ---
 
 {% for project in site.data.projects_current %}
-    {% if project.addr == "trajectory-prediction" %}
+    {% if project.addr == "ai-arch" %}
         {% assign prj = project %}
         {% break %}
     {% endif %}
