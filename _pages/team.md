@@ -61,7 +61,7 @@ Research project: {{ member.prj }}
 {% if member.number_educ == 1 %}
    {{ member.education1 }} 
 {% endif %}
-
+</div>
 {% endfor %}
 <br>
 <br>
@@ -215,18 +215,13 @@ Research project: {{ member.prj }}
 
 ## High school students hosted
 Summer 2025:
-
 Ahiri Ghatak, <b>Dominican Academy</b>
-
 Kelvin Ouyang, <b>Brooklyn Technical High School</b>
 
 
 Summer 2024:
-
 Rahim Jalloh, <b>Vanguard High School</b>
-
 Aishwari Paul, <b>Queens HS For the Sciences at York College</b>
-
 Najeedah Zaman, <b>Young Womens Leadership Sc. of the Bronx</b>
 
 
