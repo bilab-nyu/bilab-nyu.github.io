@@ -1,9 +1,16 @@
+- title: "Sim-to-Real Transfer Learning for Large-Scale Short-Term Building Energy Forecasting in Sustainable Cities"
+  images:
+  authors: Quan, H. and Ergan, S.
+  link:
+    url: https://dl.acm.org/doi/10.1145/3736425.3772006
+    display: "BUILDSYS '25: Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation."
+
 - title: "Principal attributes of wearable warning alarms to promote roadway worker safety"
   images:
   authors: Lu, D. and Ergan, S.
   link:
     url:
-    display: Advanced Engineering Informatics (accepted).
+    display: Advanced Engineering Informatics.
 
 - title: "Spatial clustering and NLP-based analysis of defect patterns on urban façades: Implementation on NYC buildings"
   images:
@@ -17,21 +24,21 @@
   authors: Shi, S., Park, K., & Ergan, S.
   link:
     url:
-    display: ASCE Journal of Construction Engineering and Management (accepted).
+    display: ASCE Journal of Construction Engineering and Management.
 
 - title: "Quantification of the impact of street design features on restorative quality in urban settings"
   images:
   authors: Park, K., & Ergan, S.
   link:
     url: https://doi.org/10.1016/j.scs.2025.106216
-    display: Sustainable Cities and Society (accepted).
+    display: Sustainable Cities and Society.
 
 - title: "Improving work zone safety: Integrating VR-CARLA co-simulation and eye tracking for behavior analysis of drivers around work zones"
   images:
   authors: Zhang, S., Ergan, S., Zuo, F., & Ozbay, K.
   link:
     url: 
-    display: Journal of Transportation Safety & Security (accepted).
+    display: Journal of Transportation Safety & Security.
 
 - title: "Reinforcement learning-based optimal control of wearable alarms for consistent roadway workers’ reactions to traffic hazards"
   images:
