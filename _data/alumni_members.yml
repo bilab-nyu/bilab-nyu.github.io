@@ -11,11 +11,11 @@
 - name: Keundeok Park, PhD
   photo: kay.jpg
   duration: "Graduated: May 2025"
+  info: 'Current Position: Tenure-track faculty member at Pusan National University, Dept of Ruban Planing and Engineering</b>'
   email: kp2393@nyu.edu
   number_educ: 1
   prj: "<a href='/projects/ai-arch'>AI-based semantic generative design models for architectural layout design</a>"
   education1: "Research Project: <a href='/projects/ai-arch'>AI-based semantic generative design models for architectural layout design</a>"
-  education2: "Current Position: Tenure-track faculty member at Pusan National University, Dept of Ruban Planing and Engineering"
   # desc: Keundeok Park is a current PhD Candidate in Urban Systems at New York University, joining the bilab Fall 2019. He earned his BSc in Urban Planning and Engineering, MSc in Urban Planning from the Hanyang University in South Korea, and MSc in Applied Urban Science & Informatics at Center for Urban Science and Progress, New York University.
 
 - name: Zhuoya Shi, PhD
@@ -32,14 +32,13 @@
 - name: Zhengbo Zou, PhD
   photo: zz.jpg
   duration: "Graduated: Dec 2020"
-  info: 'Currently a tenure track faculty at the <b>University of British Columbia</b>'
+  info: 'Current Position: Tenured faculty member at Columbia University, USA</b>'
   email: zz1658@nyu.edu
   number_educ: 4
   education1: 'Research Project: Impact of construction on urban quality of life <br> <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&hl=sra">Google Scholar</a>'
   education2: Quantification of impact of architecture design on human experience project, Lead Researcher
-  education3: "Current Position: Tenured faculty member at Columbia University, USA"
-  education4: <a href="/downloads/research_poster_FINAL_05_DARPA.pdf">Research poster</a>
-  education5: <a href="/downloads/Zhengbo-OnePager.pdf">One pager</a>
+  education3: <a href="/downloads/research_poster_FINAL_05_DARPA.pdf">Research poster</a>
+  education4: <a href="/downloads/Zhengbo-OnePager.pdf">One pager</a>
 
 - name: Xinran Yu, PhD
   photo: Celia.JPG
