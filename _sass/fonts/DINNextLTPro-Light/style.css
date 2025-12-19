@@ -17,9 +17,7 @@
 
 @font-face {
 	font-family: NYUPerstare;
-	src: url(https://webstatic.nyu.edu/fonts/NYUPerstare-VF.woff2);
-}
-@font-face {
-	font-family: NYUPerstareItalic;
-	src: url(https://webstatic.nyu.edu/fonts/NYUPerstare-Italic-VF.woff2);
+	src: url('NYUPerstare-VF.woff2') format('woff2'),
+         url('NYUPerstare-VF.woff') format('woff'),
+         url('NYUPerstare-VF.ttf') format('truetype');
 }
