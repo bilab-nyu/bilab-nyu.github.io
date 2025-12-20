@@ -14,10 +14,12 @@
 //}
 
 @font-face {
-  font-family: 'Arial';
-  src: local('Arial'), local('Arial-Regular');
-  font-weight: 400;
-  font-style: normal;
+	font-family: NYUPerstare;
+	src: url(https://webstatic.nyu.edu/fonts/NYUPerstare-VF.woff2);
+}
+@font-face {
+	font-family: NYUPerstareItalic;
+	src: url(https://webstatic.nyu.edu/fonts/NYUPerstare-Italic-VF.woff2);
 }
 
 /* */
@@ -48,7 +50,7 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 70px;
-  font-family: "DIN Next LT Pro";
+  font-family: "NYUPerstare";
 }
 
 figcaption {
