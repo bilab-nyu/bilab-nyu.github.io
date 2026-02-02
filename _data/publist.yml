@@ -9,21 +9,21 @@
   images:
   authors: Lu, D. and Ergan, S.
   link:
-    url:
+    url: https://www.sciencedirect.com/science/article/pii/S147403462500374X
     display: Advanced Engineering Informatics.
 
 - title: "Spatial clustering and NLP-based analysis of defect patterns on urban façades: Implementation on NYC buildings"
   images:
   authors: Shi, Z., and Ergan, S.
   link:
-    url:
+    url: https://www.sciencedirect.com/science/article/pii/S0264275125004834
     display: Elsevier Cities International Journal of Urban Policy and Planing.
 
 - title: "A taxonomy of urban façade defects and their distribution on façade components: A data-driven analysis of historical inspection reports"
   images:
   authors: Shi, S., Park, K., & Ergan, S.
   link:
-    url:
+    url: https://ascelibrary.org/doi/10.1061/JCEMD4.COENG-16252
     display: ASCE Journal of Construction Engineering and Management.
 
 - title: "Quantification of the impact of street design features on restorative quality in urban settings"
@@ -37,7 +37,7 @@
   images:
   authors: Zhang, S., Ergan, S., Zuo, F., & Ozbay, K.
   link:
-    url: 
+    url: https://www.tandfonline.com/doi/full/10.1080/19439962.2025.2462808
     display: Journal of Transportation Safety & Security.
 
 - title: "Reinforcement learning-based optimal control of wearable alarms for consistent roadway workers’ reactions to traffic hazards"
