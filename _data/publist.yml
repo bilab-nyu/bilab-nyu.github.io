@@ -1,3 +1,17 @@
+- title: "Behavioral modelling of roadway construction workers: Improving deep learning-based trajectory prediction with contextual information in traffic work zones"
+  images:
+  authors: Lu, D. and Ergan, S.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S147403462501170X
+    display: Advanced Engineering Informatics.
+
+- title: "Window view optimization in building façade layout design (ViewOpt): A Human-centric 3D simulation and computer vision framework"
+  images:
+  authors: Park, K. and Ergan, S.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0360132326003446
+    display: Building and Environment.
+
 - title: "Sim-to-Real Transfer Learning for Large-Scale Short-Term Building Energy Forecasting in Sustainable Cities"
   images:
   authors: Quan, H. and Ergan, S.
