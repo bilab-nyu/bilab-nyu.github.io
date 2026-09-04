@@ -43,7 +43,7 @@ The Building Informatics and Visualization Lab (biLAB) at [NYU Tandon School of 
 
 <img src="/images/semiha2.jpg" width="40%"/>
 
-#### The biLab is spearheaded by Prof. Semiha Ergan, Associate Professor of the Department of Civil and Urban Engineering.
+#### The biLab is spearheaded by Prof. Semiha Ergan, Professor of the Department of Civil and Urban Engineering.
 
 [Prof. Ergan's NYU profile](https://engineering.nyu.edu/faculty/semiha-ergan)
 

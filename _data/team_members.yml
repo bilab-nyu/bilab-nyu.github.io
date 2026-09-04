@@ -16,14 +16,6 @@
 #   prj: "<a href='/projects/arm4mod'>AI-based semantic generative design models for architectural layout design</a>"
 #   desc: Keundeok Park is a current PhD Candidate in Urban Systems at New York University, joining the bilab Fall 2019. He earned his BSc in Urban Planning and Engineering, MSc in Urban Planning from the Hanyang University in South Korea, and MSc in Applied Urban Science & Informatics at Center for Urban Science and Progress, New York University.
 
-- name: Beyza Kiper
-  photo: beyza.jpg
-  info: PhD Student, expected graduation date - May 2025
-  email: bkiper@nyu.edu
-  prj: <a href="/projects/cv-based-defects">Computer Vision Enabled Urban Façade Safety and Maintenance</a>
-  number_educ: 1
-  education1: <a href="/downloads/poster_Beyza.pdf">Research poster</a>
-  desc: Beyza Kiper is a current PhD candidate in Civil Engineering. Before joining NYU as a PhD student in Fall 2021, she earned her MSc in Civil Engineering at Purdue University and her BSc in Civil Engineering at Yildiz Technical University in Istanbul.
 
 - name: Shuo Zhang
   photo: shuo.png
