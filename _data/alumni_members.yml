@@ -1,4 +1,4 @@
-- name: Beyza Kiper
+- name: Beyza Kiper, PhD
   photo: beyza.jpg
   duration: "Graduated: May 2026"
   email: bkiper@nyu.edu
@@ -12,9 +12,9 @@
   photo: Dan.jpg
   duration: "Graduated: May 2025"
   email: dbl299@nyu.edu
-  number_educ: 3
-  education1: "Research Project: <a href='/projects/work-zone-safety'>Work Zone Safety III: Calibration of Safety Notifications through Reinforcement Learning and Eye Tracking</a>"
-  education2: "<a href='/projects/work-zone-safety'>Increasing Work Zone Safety: Worker Behavioral Analysis with Integration of Wearable Sensors and Virtual Reality </a>"
+  number_educ: 2
+#  education1: "Research Project: <a href='/projects/work-zone-safety'>Work Zone Safety III: Calibration of Safety Notifications through Reinforcement Learning and Eye Tracking</a>"
+  education2: "Research Project: <a href='/projects/work-zone-safety'>Increasing Work Zone Safety: Worker Behavioral Analysis with Integration of Wearable Sensors and Virtual Reality </a>"
   education3: <a href="/downloads/poster_Dan.pdf">Research poster</a>
   # desc: Daniel Lu is a current PhD candidate in civil engineering at New York University. He earned his MS in architectural engineering at the University of Texas at Austin and BSc in civil engineering at Cornell University
 
@@ -43,7 +43,7 @@
   info: 'Current Position: Tenured faculty member at <b>Columbia University, USA</b>'
   email: zz1658@nyu.edu
   number_educ: 4
-  education1: 'Research Project: Impact of construction on urban quality of life <br> <a href="https://scholar.google.com/citations?user=-p51P1kAAAAJ&hl=sra">Google Scholar</a>'
+  education1: 'Research Project: Impact of construction on urban quality of life <br> <a href="https://scholar.google.com/citations?user=MxGVCZIAAAAJ&hl=en">Google Scholar</a>'
   education2: Quantification of impact of architecture design on human experience project, Lead Researcher
   education3: <a href="/downloads/research_poster_FINAL_05_DARPA.pdf">Research poster</a>
   education4: <a href="/downloads/Zhengbo-OnePager.pdf">One pager</a>
