@@ -66,60 +66,100 @@ Research project: {{ member.prj }}
 <br>
 <br>
 
-## Master and Bachelor Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
+[//]: # (## Master and Bachelor Students)
 
-{% assign even_odd = number_printed | modulo: 2 %}
+[//]: # ({% assign number_printed = 0 %})
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+[//]: # ({% for member in site.data.students %})
 
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  <ul style="overflow: hidden">
+[//]: # ()
+[//]: # ({% assign even_odd = number_printed | modulo: 2 %})
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+[//]: # ()
+[//]: # ({% if even_odd == 0 %})
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
+[//]: # (<div class="row">)
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
+[//]: # ({% endif %})
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
+[//]: # ()
+[//]: # (<div class="col-sm-6 clearfix">)
 
-  </ul>
-</div>
+[//]: # (  <h4>{{ member.name }}</h4>)
 
-{% assign number_printed = number_printed | plus: 1 %}
+[//]: # (  <i>{{ member.info }}</i>)
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+[//]: # (  <ul style="overflow: hidden">)
 
-{% endfor %}
+[//]: # ()
+[//]: # (  {% if member.number_educ == 1 %})
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+[//]: # (  <li> {{ member.education1 }} </li>)
 
-<br>
+[//]: # (  {% endif %})
+
+[//]: # ()
+[//]: # (  {% if member.number_educ == 2 %})
+
+[//]: # (  <li> {{ member.education1 }} </li>)
+
+[//]: # (  <li> {{ member.education2 }} </li>)
+
+[//]: # (  {% endif %})
+
+[//]: # ()
+[//]: # (  {% if member.number_educ == 3 %})
+
+[//]: # (  <li> {{ member.education1 }} </li>)
+
+[//]: # (  <li> {{ member.education2 }} </li>)
+
+[//]: # (  <li> {{ member.education3 }} </li>)
+
+[//]: # (  {% endif %})
+
+[//]: # ()
+[//]: # (  {% if member.number_educ == 4 %})
+
+[//]: # (  <li> {{ member.education1 }} </li>)
+
+[//]: # (  <li> {{ member.education2 }} </li>)
+
+[//]: # (  <li> {{ member.education3 }} </li>)
+
+[//]: # (  <li> {{ member.education4 }} </li>)
+
+[//]: # (  {% endif %})
+
+[//]: # ()
+[//]: # (  </ul>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # ({% assign number_printed = number_printed | plus: 1 %})
+
+[//]: # ()
+[//]: # ({% if even_odd == 1 %})
+
+[//]: # (</div>)
+
+[//]: # ({% endif %})
+
+[//]: # ()
+[//]: # ({% endfor %})
+
+[//]: # ()
+[//]: # ({% assign even_odd = number_printed | modulo: 2 %})
+
+[//]: # ({% if even_odd == 1 %})
+
+[//]: # (</div>)
+
+[//]: # ({% endif %})
+
+[//]: # ()
+[//]: # (<br>)
 
 ## Alumni
 
