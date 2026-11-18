@@ -14,8 +14,8 @@
   email: dbl299@nyu.edu
   number_educ: 2
 #  education1: "Research Project: <a href='/projects/work-zone-safety'>Work Zone Safety III: Calibration of Safety Notifications through Reinforcement Learning and Eye Tracking</a>"
-  education2: "Research Project: <a href='/projects/work-zone-safety'>Increasing Work Zone Safety: Worker Behavioral Analysis with Integration of Wearable Sensors and Virtual Reality </a>"
-  education3: <a href="/downloads/poster_Dan.pdf">Research poster</a>
+  education1: "Research Project: <a href='/projects/work-zone-safety'>Increasing Work Zone Safety: Worker Behavioral Analysis with Integration of Wearable Sensors and Virtual Reality </a>"
+  education2: <a href="/downloads/poster_Dan.pdf">Research poster</a>
   # desc: Daniel Lu is a current PhD candidate in civil engineering at New York University. He earned his MS in architectural engineering at the University of Texas at Austin and BSc in civil engineering at Cornell University
 
 - name: Keundeok Park, PhD
